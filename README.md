@@ -1,7 +1,7 @@
 # Manifest Manager
 ## Description
 
-## Installertion
+## Installation
 Install with npm on your console:
 ```
 npm install --save manifest-manager
